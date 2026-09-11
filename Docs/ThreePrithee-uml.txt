@@ -1,0 +1,4 @@
+ThreePrithee
+-----------------------
++threePrithee(sonnet: String): void
++threePritheeEngine(sonnet: String, scanner: java.util.Scanner, rand: java.util.Random): void
